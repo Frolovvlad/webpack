@@ -1,0 +1,19 @@
+@import "vars";
+@import "fonts";
+
+html, body {
+	height: 100%;
+}
+
+body {
+	font-size: 60px;
+	position: relative;
+	line-height: 1.65;
+	font-family: $default-font;
+	overflow-x: hidden;
+}
+
+img {
+	width: 100%;
+}
+
